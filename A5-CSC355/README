@@ -1,0 +1,4 @@
+Description:
+Please use the ratings.csv and movies.csv file as an input file and use spark to find the following:
+1) Find the most five star movies
+2) Find the most five star crime movies

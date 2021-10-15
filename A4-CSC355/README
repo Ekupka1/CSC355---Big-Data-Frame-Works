@@ -1,0 +1,8 @@
+Description:
+Please use the ratings.csv file as an input file and write MapReduce solutions using mrjob library in python. Please note that the data format is a CSV and each row contains row_id, restaurant_name, user_id, ratings.
+1) Find the number of ratings for each restaurant.
+2) Find the average ratings for each restaurant.
+3) Find the list of restaurants with the most number of five start ratings.
+4) Find the list of restaurants with the maximum percentage of five start ratings.
+
+--DID NOT ADD the BIG DATA File but added a smaller portion of it as ratings2.csv
